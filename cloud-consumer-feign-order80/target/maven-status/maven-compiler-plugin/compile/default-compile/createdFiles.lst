@@ -1,0 +1,4 @@
+com\atuguigu\cloud\controller\OrderCircuitController.class
+com\atuguigu\cloud\MainOpenFeign80.class
+com\atuguigu\cloud\config\FeignConfig.class
+com\atuguigu\cloud\controller\OrderController.class
